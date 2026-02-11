@@ -34,7 +34,7 @@ dotenv
 JSON
 
 # 📂 Project Structure
-.
+.<br>
 ├── Data/<br>
 │   └── ChatLog.json<br>
 ├── .env<br>
@@ -53,12 +53,13 @@ GroqAPIKey=YOUR_GROQ_API_KEY
 
 Clone the repository:
 
-https://github.com/devbishal9/Chatbot.git
+https://github.com/devbishal9/Chatbot.git<br>
+```bash
 cd Chatbot
 
 
 Install dependencies:
-
+```bash
 pip install groq python-dotenv
 
 
